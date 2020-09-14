@@ -1,0 +1,48 @@
+
+body{
+	background-color: #AFeeee
+}
+h1{
+	text-align: center;
+	font-family: initial;
+	margin-top: 30px;
+	font-style: bold;
+	font-size: 80px;
+}
+h2{
+	text-align: center;
+	font-style: bold;
+	margin-bottom: 30px;
+}
+
+
+p{
+	text-align: center;
+	margin:30px 20px 30px;
+}
+
+.container{
+	background-color: #FFEFD5;
+	margin-top: 80px;
+	padding: 30px;
+}
+
+img{
+	display: block;
+	margin:0 auto 20px auto;
+	border:1px solid black;
+}
+li>a:hover{
+	background-color: brown;
+	font-style: italic;
+	font-color:black;
+}
+
+.back{
+	text-align: center;
+	font-color:black;
+	background-color: white;
+	font-size: 40px;
+	font-style: italic;
+
+}
