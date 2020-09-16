@@ -7,14 +7,12 @@ h1{
 	font-size: 80px;
 }
 h2{
-	text-align: center;
 	font-style: bold;
 	margin-bottom: 30px;
 }
 
 
 p{
-	text-align: center;
 	margin:30px 20px 30px;
 }
 
@@ -36,10 +34,14 @@ li>a:hover{
 }
 
 .back{
-	text-align: center;
 	font-color:black;
 	background-color: white;
 	font-size: 40px;
 	font-style: italic;
 
 }
+.size{
+	font-size: 50px;
+}
+
+
